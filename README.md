@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[cite_start]This project is a submission for the **Microwatt Momentum Open Hardware Hackathon** organized by the OpenPOWER Foundation and ChipFoundry[cite: 1, 2, 3, 4, 5].
+This project is a submission for the **Microwatt Momentum Open Hardware Hackathon** organized by the OpenPOWER Foundation and ChipFoundry
 
 ## 📖 Project Overview
 
